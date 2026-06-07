@@ -1,5 +1,0 @@
-(fp_lib_table
-	(version 7)
-	(lib (name "Library") (type "KiCad") (uri "${KICAD_3RD_PARTY}/ESP32 Data Acquisition Board/Library.pretty") (options "") (descr ""))
-	(lib (name "TP4056 - CUSTOM") (type "KiCad") (uri "${KICAD_3RD_PARTY}/ESP32 Data Acquisition Board/TP4056 - CUSTOM.pretty") (options "") (descr ""))
-)
